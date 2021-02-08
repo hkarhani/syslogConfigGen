@@ -1,5 +1,5 @@
 # Syslog Config Generator
-Starterkit of Syslog Parsing for Forescout.   
+Starterkit of Syslog Parsing.   
 
 You need to run a docker Container with Jupyter Notebook - which will allow you to Generate and Edit and simulate your Syslog configurations.
 
@@ -13,8 +13,8 @@ You need to run a docker Container with Jupyter Notebook - which will allow you 
 
  Then browse to http://docker-machine-ip:8888/ (if local machine use: localhost:8888).
 
-3. Open the Notebook: 1. syslog Model Generator Tutorial.ipynb - and execute the cells to Generate Syslog Configurations on Forescout Platform.
+3. Open the Notebook: 1. syslog Model Generator Tutorial.ipynb - and execute the cells to Generate Syslog Configurations on the Platform.
 
-4. OPen the Notebook: 2. pySyslog Testing - To Simulate Syslog Messages to your Forescout Platform.
+4. OPen the Notebook: 2. pySyslog Testing - To Simulate Syslog Messages to your Platform.
 
 Video Tutorial is available upon request, and Notebooks are quiet easy to follow. 
